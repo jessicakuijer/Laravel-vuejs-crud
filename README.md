@@ -8,10 +8,10 @@
 </p>
 
 ## Quick START / Marche à suivre pour lancer le projet:
-1- blab
-jjj
-2-hdhd
-hdhdhd
+- 1/jgjgjg
+jjjj
+- 2/dnddn
+djjdjdjd
 
 ## About Laravel
 
