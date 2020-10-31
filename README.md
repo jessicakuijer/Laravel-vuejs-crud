@@ -8,10 +8,11 @@
 </p>
 
 ## Quick START / Marche à suivre pour lancer le projet:
-- 1/jgjgjg
-jjjj
-- 2/dnddn
-djjdjdjd
+1. Install Dependencies
+- composer install
+2. Copy .env.example to .env
+- cp .env.example .env
+
 
 ## About Laravel
 
