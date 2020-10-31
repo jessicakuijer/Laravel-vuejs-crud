@@ -8,10 +8,31 @@
 </p>
 
 ## Quick START / Marche à suivre pour lancer le projet:
-1. Install Dependencies
+1. Clone repository and place files into virtual host like Xampp (htdocs folder) or Laragon (www folder) // Open project into your IDE (like Visual Studio Code or Sublime Text)
+2. Install Dependencies
 - composer install
-2. Copy .env.example to .env
+3. Copy .env.example to .env
 - cp .env.example .env
+4. in .env change DB_DATABASE by a DB name of your choice
+- create your empty database with that same DB name
+5. Add virtual host
+- start apache and MySQL
+6. Get the encryption key first!
+- php artisan key:generate
+7. Run DB migrations
+- php artisan migrate
+8. Import datas
+- php artisan db:seed
+9. Install JS Dependecies (and VUE js :)
+- npm install
+10. Watch files (let this terminal open)
+- npm run watch
+11. Run the application (new terminal, let it open too)
+- php artisan serve
+12. Go to your localhost URL web in browser
+- http://localhost:8000/
+13. WATCH demo !! :) and enjoy!
+-  LIVE DEMO : https://youtu.be/TeGqMs4zRpc
 
 
 ## About Laravel
