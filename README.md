@@ -18,7 +18,7 @@
 - php artisan migrate
 8. Import datas
 - php artisan db:seed
-9. Install JS Dependecies (and VUE js :)
+9. Install JS Dependencies (and VUE js :)
 - npm install
 10. Watch files (let this terminal open)
 - npm run watch
